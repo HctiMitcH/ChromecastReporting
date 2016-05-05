@@ -1,20 +1,7 @@
 .background {
-  background: center no-repeat url(background.png);
-}
-
-.logo {
-  background-image: url(logo.png);
-}
-
-.progressBar {
-  background-color: rgb(238, 255, 65);
+  background: center no-repeat url(http://192.168.1.199:8000/Dump/4fb753af3fd43ad777e110c0b05213ad9fad78d00b4244076a972d99(0).png);
 }
 
 .splash {
-  background-image: url(splash.png);
-}
-
-.watermark {
-  background-image: url(watermark.png);
-  background-size: 57px 57px;
+  background-image: url(http://192.168.1.199:8000/Dump/4fb753af3fd43ad777e110c0b05213ad9fad78d00b4244076a972d99(0).png);
 }
